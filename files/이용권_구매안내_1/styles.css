@@ -1,0 +1,199 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:412px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u269_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:413px;
+  height:843px;
+}
+#u269 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:413px;
+  height:843px;
+}
+#u269_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u270_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:414px;
+  height:741px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(153, 153, 153, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u270 {
+  border-width:0px;
+  position:absolute;
+  left:-1px;
+  top:102px;
+  width:414px;
+  height:741px;
+}
+#u270_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u271_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:413px;
+  height:48px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'나눔고딕 Bold', '나눔고딕 Regular', '나눔고딕';
+  font-weight:600;
+  font-style:normal;
+  font-size:14px;
+  text-align:center;
+}
+#u271 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:118px;
+  width:413px;
+  height:48px;
+  font-family:'나눔고딕 Bold', '나눔고딕 Regular', '나눔고딕';
+  font-weight:600;
+  font-style:normal;
+  font-size:14px;
+  text-align:center;
+}
+#u271_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:413px;
+  word-wrap:break-word;
+}
+#u272_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:131px;
+  height:44px;
+  background:inherit;
+  background-color:rgba(228, 0, 118, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(204, 204, 204, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'나눔고딕 Bold', '나눔고딕 Regular', '나눔고딕';
+  font-weight:600;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u272 {
+  border-width:0px;
+  position:absolute;
+  left:56px;
+  top:211px;
+  width:131px;
+  height:44px;
+  font-family:'나눔고딕 Bold', '나눔고딕 Regular', '나눔고딕';
+  font-weight:600;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u272_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:127px;
+  word-wrap:break-word;
+}
+#u273_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:131px;
+  height:44px;
+  background:inherit;
+  background-color:rgba(204, 204, 204, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(204, 204, 204, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'나눔고딕 Bold', '나눔고딕 Regular', '나눔고딕';
+  font-weight:600;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u273 {
+  border-width:0px;
+  position:absolute;
+  left:226px;
+  top:211px;
+  width:131px;
+  height:44px;
+  font-family:'나눔고딕 Bold', '나눔고딕 Regular', '나눔고딕';
+  font-weight:600;
+  font-style:normal;
+  color:#FFFFFF;
+}
+#u273_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:127px;
+  word-wrap:break-word;
+}

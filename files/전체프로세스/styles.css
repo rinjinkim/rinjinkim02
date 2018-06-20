@@ -1097,13 +1097,13 @@
   left:-4px;
   top:0px;
   width:8px;
-  height:228px;
+  height:223px;
 }
 #u210_seg1 {
   border-width:0px;
   position:absolute;
   left:-4px;
-  top:220px;
+  top:215px;
   width:84px;
   height:8px;
 }
@@ -1111,7 +1111,7 @@
   border-width:0px;
   position:absolute;
   left:68px;
-  top:215px;
+  top:210px;
   width:18px;
   height:18px;
 }
@@ -1119,7 +1119,7 @@
   border-width:0px;
   position:absolute;
   left:-50px;
-  top:139px;
+  top:136px;
   width:100px;
   word-wrap:break-word;
 }
@@ -1141,24 +1141,22 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'돋움 Regular', '돋움';
+  font-family:'돋움';
   font-weight:400;
   font-style:normal;
   font-size:11px;
-  color:#0000FF;
 }
 #u211 {
   border-width:0px;
   position:absolute;
-  left:1058px;
-  top:469px;
+  left:1072px;
+  top:464px;
   width:200px;
   height:30px;
-  font-family:'돋움 Regular', '돋움';
+  font-family:'돋움';
   font-weight:400;
   font-style:normal;
   font-size:11px;
-  color:#0000FF;
 }
 #u211_text {
   border-width:0px;
@@ -1183,24 +1181,32 @@
 #u212_seg0 {
   border-width:0px;
   position:absolute;
-  left:0px;
-  top:-4px;
-  width:116px;
-  height:8px;
+  left:-4px;
+  top:-9px;
+  width:8px;
+  height:9px;
 }
 #u212_seg1 {
   border-width:0px;
   position:absolute;
-  left:100px;
+  left:-4px;
   top:-9px;
+  width:130px;
+  height:8px;
+}
+#u212_seg2 {
+  border-width:0px;
+  position:absolute;
+  left:114px;
+  top:-14px;
   width:18px;
   height:18px;
 }
 #u212_text {
   border-width:0px;
   position:absolute;
-  left:6px;
-  top:-6px;
+  left:10px;
+  top:-12px;
   width:100px;
   word-wrap:break-word;
 }
@@ -1216,7 +1222,7 @@
   border-width:0px;
   position:absolute;
   left:798px;
-  top:450px;
+  top:445px;
   width:184px;
   height:60px;
   font-family:'돋움 Regular', '돋움';
@@ -1229,7 +1235,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:4px;
+  top:17px;
   width:180px;
   word-wrap:break-word;
 }
@@ -1251,22 +1257,24 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'돋움';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:11px;
+  color:#0000FF;
 }
 #u214 {
   border-width:0px;
   position:absolute;
-  left:1058px;
-  top:528px;
+  left:1072px;
+  top:523px;
   width:200px;
   height:30px;
-  font-family:'돋움';
+  font-family:'돋움 Regular', '돋움';
   font-weight:400;
   font-style:normal;
   font-size:11px;
+  color:#0000FF;
 }
 #u214_text {
   border-width:0px;
@@ -1280,7 +1288,7 @@
   border-width:0px;
   position:absolute;
   left:890px;
-  top:510px;
+  top:505px;
   width:0px;
   height:0px;
   font-family:'돋움 Regular', '돋움';
@@ -1294,29 +1302,21 @@
   left:-4px;
   top:0px;
   width:8px;
-  height:37px;
+  height:45px;
 }
 #u215_seg1 {
   border-width:0px;
   position:absolute;
-  left:-4px;
+  left:-9px;
   top:29px;
-  width:172px;
-  height:8px;
-}
-#u215_seg2 {
-  border-width:0px;
-  position:absolute;
-  left:156px;
-  top:24px;
   width:18px;
   height:18px;
 }
 #u215_text {
   border-width:0px;
   position:absolute;
-  left:18px;
-  top:26px;
+  left:-50px;
+  top:14px;
   width:100px;
   word-wrap:break-word;
 }
@@ -1598,51 +1598,6 @@
   left:0px;
   top:0px;
   width:175px;
-  height:44px;
-  background:-webkit-linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  background:-moz-linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  background:linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'돋움 Regular', '돋움';
-  font-weight:400;
-  font-style:normal;
-  font-size:11px;
-  line-height:18px;
-}
-#u223 {
-  border-width:0px;
-  position:absolute;
-  left:1017px;
-  top:755px;
-  width:175px;
-  height:44px;
-  font-family:'돋움 Regular', '돋움';
-  font-weight:400;
-  font-style:normal;
-  font-size:11px;
-  line-height:18px;
-}
-#u223_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:4px;
-  width:171px;
-  word-wrap:break-word;
-}
-#u224_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:175px;
   height:30px;
   background:-webkit-linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
   background:-moz-linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
@@ -1660,7 +1615,7 @@
   font-style:normal;
   font-size:11px;
 }
-#u224 {
+#u223 {
   border-width:0px;
   position:absolute;
   left:818px;
@@ -1672,7 +1627,7 @@
   font-style:normal;
   font-size:11px;
 }
-#u224_text {
+#u223_text {
   border-width:0px;
   position:absolute;
   left:2px;
@@ -1680,52 +1635,7 @@
   width:171px;
   word-wrap:break-word;
 }
-#u225_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:175px;
-  height:44px;
-  background:-webkit-linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  background:-moz-linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  background:linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
-  box-sizing:border-box;
-  border-width:1px;
-  border-style:solid;
-  border-color:rgba(121, 121, 121, 1);
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'돋움 Regular', '돋움';
-  font-weight:400;
-  font-style:normal;
-  font-size:11px;
-  line-height:18px;
-}
-#u225 {
-  border-width:0px;
-  position:absolute;
-  left:1017px;
-  top:673px;
-  width:175px;
-  height:44px;
-  font-family:'돋움 Regular', '돋움';
-  font-weight:400;
-  font-style:normal;
-  font-size:11px;
-  line-height:18px;
-}
-#u225_text {
-  border-width:0px;
-  position:absolute;
-  left:2px;
-  top:4px;
-  width:171px;
-  word-wrap:break-word;
-}
-#u226 {
+#u224 {
   border-width:0px;
   position:absolute;
   left:993px;
@@ -1738,7 +1648,7 @@
   font-size:11px;
   color:#0000FF;
 }
-#u226_seg0 {
+#u224_seg0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -1746,7 +1656,7 @@
   width:28px;
   height:8px;
 }
-#u226_seg1 {
+#u224_seg1 {
   border-width:0px;
   position:absolute;
   left:-8px;
@@ -1754,7 +1664,7 @@
   width:18px;
   height:18px;
 }
-#u226_seg2 {
+#u224_seg2 {
   border-width:0px;
   position:absolute;
   left:12px;
@@ -1762,7 +1672,7 @@
   width:19px;
   height:18px;
 }
-#u226_text {
+#u224_text {
   border-width:0px;
   position:absolute;
   left:-38px;
@@ -1771,11 +1681,100 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u227 {
+#u225 {
   border-width:0px;
   position:absolute;
   left:993px;
   top:777px;
+  width:0px;
+  height:0px;
+  font-family:'돋움 Regular', '돋움';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+  color:#0000FF;
+}
+#u225_seg0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:-4px;
+  width:28px;
+  height:8px;
+}
+#u225_seg1 {
+  border-width:0px;
+  position:absolute;
+  left:-8px;
+  top:-9px;
+  width:18px;
+  height:18px;
+}
+#u225_seg2 {
+  border-width:0px;
+  position:absolute;
+  left:12px;
+  top:-9px;
+  width:19px;
+  height:18px;
+}
+#u225_text {
+  border-width:0px;
+  position:absolute;
+  left:-38px;
+  top:-8px;
+  width:100px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u226_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:175px;
+  height:41px;
+  background:-webkit-linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  background:-moz-linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  background:linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'돋움 Regular', '돋움';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+}
+#u226 {
+  border-width:0px;
+  position:absolute;
+  left:802px;
+  top:546px;
+  width:175px;
+  height:41px;
+  font-family:'돋움 Regular', '돋움';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+}
+#u226_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:171px;
+  word-wrap:break-word;
+}
+#u227 {
+  border-width:0px;
+  position:absolute;
+  left:977px;
+  top:567px;
   width:0px;
   height:0px;
   font-family:'돋움 Regular', '돋움';
@@ -1789,31 +1788,121 @@
   position:absolute;
   left:0px;
   top:-4px;
-  width:28px;
+  width:199px;
   height:8px;
 }
 #u227_seg1 {
   border-width:0px;
   position:absolute;
-  left:-8px;
-  top:-9px;
-  width:18px;
+  left:191px;
+  top:-14px;
+  width:8px;
   height:18px;
 }
 #u227_seg2 {
   border-width:0px;
   position:absolute;
-  left:12px;
-  top:-9px;
-  width:19px;
+  left:186px;
+  top:-20px;
+  width:18px;
   height:18px;
 }
 #u227_text {
   border-width:0px;
   position:absolute;
-  left:-38px;
+  left:54px;
   top:-8px;
   width:100px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u228_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:175px;
+  height:44px;
+  background:-webkit-linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  background:-moz-linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  background:linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'돋움 Regular', '돋움';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+  line-height:18px;
+}
+#u228 {
+  border-width:0px;
+  position:absolute;
+  left:1017px;
+  top:755px;
+  width:175px;
+  height:44px;
+  font-family:'돋움 Regular', '돋움';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+  line-height:18px;
+}
+#u228_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:171px;
+  word-wrap:break-word;
+}
+#u229_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:175px;
+  height:44px;
+  background:-webkit-linear-gradient(270deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  background:-moz-linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  background:linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(242, 242, 242, 1) 0%, rgba(228, 228, 228, 1) 100%, rgba(255, 255, 255, 1) 100%);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'돋움 Regular', '돋움';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+  line-height:18px;
+}
+#u229 {
+  border-width:0px;
+  position:absolute;
+  left:1017px;
+  top:673px;
+  width:175px;
+  height:44px;
+  font-family:'돋움 Regular', '돋움';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+  line-height:18px;
+}
+#u229_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:171px;
   word-wrap:break-word;
 }
